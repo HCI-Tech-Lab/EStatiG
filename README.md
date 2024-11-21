@@ -1,4 +1,4 @@
-# hcitech_estatig.github.io
+# estatig.github.io
 
 
 # Website License
