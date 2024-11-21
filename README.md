@@ -1,6 +1,6 @@
 # EStatiG
 
-This is the repository that contains source code for the PiMForce website.
+This is the repository that contains source code for the EStatiG website.
 
 If you find PiMForce useful for your work please cite:
 
