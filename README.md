@@ -2,7 +2,7 @@
 
 This is the repository that contains source code for the EStatiG website.
 
-If you find PiMForce useful for your work please cite:
+If you find EStatiG useful for your work please cite:
 
 @article{10.1145/3678567,
 author = {Vanichvoranun, Nicha and Lee, Hojeong and Kim, Seoyeon and Yoon, Sang Ho},
